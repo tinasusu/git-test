@@ -6,7 +6,7 @@
 		$DBPASSWD = "1234";
 		$DBHOST = "localhost";
 		 
-		$conn = mysqli_connect( $DBHOST, $DBUSER, $DBPASSWD); 
+		$conn = mysqli_connect( $DBHOST, $DBUSER, $DBPASSWD);  
 
 		if (empty($conn)){
 			print mysqli_error($conn);
