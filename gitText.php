@@ -1,4 +1,4 @@
 <?
 	echo "heloo git";
-	echo "git diff text";  
+	echo "git diff text";
 ?>
